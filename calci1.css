@@ -36,7 +36,7 @@ h1{
     display: grid;
     grid-template-columns:0.19fr 0.19fr 0.19fr 0.19fr ;
 margin-top: 20px;
-
+cursor:pointer;
 
 
 }
@@ -73,6 +73,7 @@ font-size: 20px;
      border:5px solid rgb(85,88,68);  
      box-shadow:2px 2px 0, 2px 2px 0, 2px 2px 0, 2px 2px 0,2px 2px 0;
     position: relative;
+    cursor:pointer;
 }
 
 .line{
