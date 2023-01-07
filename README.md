@@ -8,7 +8,7 @@ This is how my calculator looks:
 (https://user-images.githubusercontent.com/113055355/211157932-a21ee38c-ac88-4168-b016-f133d2042d88.png)<br>
 Addition:<br>
 addition:(https://user-images.githubusercontent.com/113055355/211158200-72d70c81-4cba-40ad-ad89-4a02eca31d88.png)<br>
-solution:(https://user-images.githubusercontent.com/113055355/211158204-f86ac74b-03e9-4a4a-b8ad-e0153ffb0c37.png)<br>
+addition-solution:(https://user-images.githubusercontent.com/113055355/211158204-f86ac74b-03e9-4a4a-b8ad-e0153ffb0c37.png)<br>
 Subtraction:<br>
 substraction:(https://user-images.githubusercontent.com/113055355/211158232-cd0574ff-2d07-4102-ac6b-591fb83f19b3.png)<br>
 substraction-solution:(https://user-images.githubusercontent.com/113055355/211158239-01c6ceba-dcd3-40b5-ac19-efb52c32afb7.png)<br>
