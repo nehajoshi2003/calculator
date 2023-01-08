@@ -4,7 +4,7 @@ I tried to make a simple calculator with the basics of html, css and java script
 In the html code I have created a div under which my buttons are mentioned.
 Under the css code I have tried to use box shadow, borders etc..to make my calculator look presentable.
 In the java script code the code for working of calculator has been used.
-This is how my calculator looks:
+This is how my calculator looks:<br>
 (https://user-images.githubusercontent.com/113055355/211157932-a21ee38c-ac88-4168-b016-f133d2042d88.png)<br>
 Addition:<br>
 addition:(https://user-images.githubusercontent.com/113055355/211158200-72d70c81-4cba-40ad-ad89-4a02eca31d88.png)<br>
