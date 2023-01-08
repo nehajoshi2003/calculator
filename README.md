@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 <h3>Simple calculator made using html, css and javascript</h3><br>
 I tried to make a simple calculator with the help of basics of html css and java script.
 In the html code i have created a div under which my buttons are mentioned.
